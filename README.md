@@ -4,22 +4,28 @@
 
 With over **10 years of software development** and **12 years of management experience**, I've led high-impact teams across global tech giants like **Samsung**, **NTT**, and **NEC**. My work spans **cloud platforms**, **smart mobile devices**, and **embedded systems**, delivering solutions that power millions of users.
 
+I specialize in **applying machine learning to solve real-world problems with precision and scalability**. My expertise spans TensorFlow, Keras, and scikit-learn, enabling me to deliver robust solutions in image classification, object detection, NLP, predictive analytics, and time-series forecasting. What truly excites me is **bridging the gap between intelligent models and practical deployment**, integrating ML-powered features seamlessly into mobile apps, cloud platforms, and embedded systems.
+
+My technical toolkit includes C, C++, Python, Java, JavaScript, ARM Assembler, Embedded Linux, FreeRTOS, and a wide array of communication and networking protocols (TCP/IP, HTTP/HTTPS, MQTT, VoIP SIP, Modbus). I'm also proficient with modern web and cloud technologies like SpringBoot, React-Redux, Azure, AWS, Docker, and various databases (PostgreSQL, MySQL, MongoDB, DynamoDB).
+
+As a bilingual professional (English and Korean), I thrive in dynamic, cross-cultural environments, driving innovation and delivering solutions that power millions of users globally. I am passionate about leveraging technology to create tangible impact and am always eager to connect with fellow innovators and leaders.
+
 ---
 
 ## 🧠 Expertise Snapshot
 
 ### 💻 Platforms & Frameworks
-- **Spring Boot**, **Django REST**, **MongoDB**, **PostgreSQL**, **Redis**, **MySQL**
-- **Amazon Web Services (AWS)**, **Docker**, **Linux Server**
-- Embedded OS: **REX OS**, **VxWorks**, **Nucleus**, **Embedded Linux**
+- **Spring Boot**, **Django REST**, **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**
+- **Microsoft Azure**, **Windows Server**. **Amazon Web Services (AWS)**, **Docker**, **Linux Server**
+- **Embedded System: STM32, ARM MCUs, Embedded Linux, FreeRTOS, RTOSs, Bare Metal**, **REX OS**, **VxWorks**, **Nucleus**
 
 ### 🧑‍💻 Programming Languages
 - **Python**, **Java**, **C/C++**, **Kotlin (Android)**, **Swift**, **ARM Assembler**
-- Web: **HTML**, **CSS**, **JavaScript**, **PHP**
+- **Web:** **HTML**, **CSS**, **JavaScript**, **PHP**
 
-### 🌐 Networking Protocols
-- **TCP/IP**, **HTTP/HTTPS**, **RTP/RTCP**, **SIP**
-- Wireless: **Wi-Fi**, **TV White Space**
+### 🌐 Networking Communication Protocols
+- **TCP/IP**, **MQTT**, **HTTP/HTTPS**, **RTP/RTCP**, **SIP**, **Modbus**
+- **Wireless:** **Wi-Fi**, **TV White Space**
 
 ---
 
