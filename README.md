@@ -1,68 +1,63 @@
 # 👋 Hello, I'm June Hong
 
-🚀 **Software Architect | Technical Leader | Innovator**
+🚀 **Software Architect | Technical Leader | AIoT & Embedded Systems Specialist**
 
-With over **10 years of software development** and **12 years of management experience**, I've led high-impact teams across global tech giants like **Samsung**, **NTT**, and **NEC**. My work spans **cloud platforms**, **smart mobile devices**, and **embedded systems**, delivering solutions that power millions of users.
+With over **22 years of engineering experience** (10+ dev, 12+ mgmt), I architect and deliver mission-critical systems for global tech giants like **Samsung**, **NTT**, and **NEC**. My core competency lies in the convergence of **Cloud Native Architectures**, **Embedded Firmware**, and **Edge AI**.
 
-I specialize in **applying machine learning to solve real-world problems with precision and scalability**. My expertise spans TensorFlow, Keras, and scikit-learn, enabling me to deliver robust solutions in image classification, object detection, NLP, predictive analytics, and time-series forecasting. What truly excites me is **bridging the gap between intelligent models and practical deployment**, integrating ML-powered features seamlessly into mobile apps, cloud platforms, and embedded systems.
+I specialize in **productionizing Machine Learning models**, moving beyond experimentation to deploy robust, scalable inference engines. My expertise encompasses the full ML lifecycle—from data engineering and model training with **TensorFlow/Keras** to optimization for resource-constrained environments (Embedded Linux/RTOS).
 
-My technical toolkit includes C, C++, Python, Java, JavaScript, ARM Assembler, Embedded Linux, FreeRTOS, and a wide array of communication and networking protocols (TCP/IP, HTTP/HTTPS, MQTT, VoIP SIP, Modbus). I'm also proficient with modern web and cloud technologies like SpringBoot, React-Redux, Azure, AWS, Docker, and various databases (PostgreSQL, MySQL, MongoDB, DynamoDB).
-
-As a bilingual professional (English and Korean), I thrive in dynamic, cross-cultural environments, driving innovation and delivering solutions that power millions of users globally. I am passionate about leveraging technology to create tangible impact and am always eager to connect with fellow innovators and leaders.
-
----
-
-## 🧠 Expertise Snapshot
-
-### 💻 Platforms & Frameworks
-- **Spring Boot**, **Django REST**, **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**
-- **Microsoft Azure**, **Windows Server**. **Amazon Web Services (AWS)**, **Docker**, **Linux Server**
-- **Embedded System: STM32, ARM MCUs, Embedded Linux, FreeRTOS, RTOSs, Bare Metal**, **REX OS**, **VxWorks**, **Nucleus**
-
-### 🧑‍💻 Programming Languages
-- **Python**, **Java**, **C/C++**, **Kotlin (Android)**, **Swift**, **ARM Assembler**
-- **Web:** **HTML**, **CSS**, **JavaScript**, **PHP**
-
-### 🌐 Networking Communication Protocols
-- **TCP/IP**, **MQTT**, **HTTP/HTTPS**, **RTP/RTCP**, **SIP**, **Modbus**
-- **Wireless:** **Wi-Fi**, **TV White Space**
+**Technical Focus:**
+*   **Systems Engineering:** Deep experience in **Embedded Linux**, **FreeRTOS**, and **Bare Metal** development on ARM architectures.
+*   **Full-Stack & Cloud:** Architecting microservices with **Spring Boot** and **Django**, deployed via **Docker** on **AWS/Azure**.
+*   **Connectivity:** Implementing complex protocol stacks (**TCP/IP, MQTT, SIP/RTP, Modbus**) for high-reliability IoT and VoIP communications.
 
 ---
 
-## 🤖 Machine Learning & AI
+## 🛠 Technical Stack
 
-I apply machine learning to solve real-world problems with precision and scalability. My experience spans:
+### ☁️ Cloud & Backend Infrastructure
+- **Architecture:** Microservices, RESTful APIs
+- **Frameworks:** Spring Boot, Django REST Framework
+- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
+- **Infrastructure:** Docker, AWS (EC2, S3), Azure, Linux Server Administration
 
-- **Frameworks & Libraries**: TensorFlow 2.0, Keras, scikit-learn, OpenCV  
-- **Techniques**: Supervised & Unsupervised Learning, CNNs, RNNs, Transfer Learning  
-- **Applications**:
-  - Image classification & object detection  
-  - Natural Language Processing (NLP)  
-  - Predictive analytics & recommendation systems  
-  - Time-series forecasting  
+### ⚡ Embedded & Firmware
+- **OS/Kernels:** Embedded Linux, FreeRTOS, VxWorks, Nucleus, REX OS
+- **Hardware:** ARM Cortex-M/A, STM32, Bare Metal Programming
+- **Protocols:** TCP/IP, MQTT, HTTP/HTTPS, RTP/RTCP, SIP, Modbus
 
-I am building ML-powered features into mobile apps, cloud platforms, and embedded systems—bridging the gap between intelligent models and practical deployment.
+### 🧬 AI & Machine Learning
+- **Frameworks:** TensorFlow 2.0, Keras, scikit-learn, OpenCV
+- **Techniques:** CNNs, RNNs, Transfer Learning, Time-series Forecasting
+- **Deployment:** Edge Inference, Model Optimization
+
+### 💻 Languages
+- **System:** C, C++, ARM Assembler
+- **Application:** Python, Java, Kotlin, Swift
+- **Web:** JavaScript, HTML, CSS, PHP
 
 ---
 
 ## 🏆 Career Highlights
 
-🎥 **VoIP Android Video Phones for NEC**  
+**VoIP Android Video Phones (NEC)**
+*Implemented SIP/RTP stacks and optimized video codecs for real-time communication.*
 [Watch Demo »](https://www.youtube.com/watch?v=3A7L3uexReE)
 
-📱 **Android Tablets for NTT**  
+**Android Tablets (NTT)**
+*Led Android framework customization and HAL integration for carrier-grade devices.*
 [Watch Demo »](https://www.youtube.com/watch?v=4Y1-JsDp3IM)
 
-📡 **SDMB Multimedia Mobile Phones for SKTeletech**  
+**SDMB Multimedia Mobile Phones (SKTeletech)**
+*Developed embedded multimedia protocols for Satellite DMB streaming.*
 [Watch Demo »](https://www.youtube.com/watch?v=J0NPZWObpac)
 
 ---
 
-## 🌟 What I Bring to the Table
-- Strategic planning & execution across full-stack development  
-- Technical leadership with a focus on scalable architecture  
-- Cross-functional collaboration with global engineering teams  
-- Passion for solving complex problems with elegant solutions  
+## 🌟 Architectural Philosophy
+- **Scalability First:** Designing systems that handle vertical and horizontal scaling gracefully.
+- **Clean Architecture:** Adhering to SOLID principles and modular design patterns.
+- **Performance Optimization:** Profiling and optimizing from the kernel level up to the application layer.
 
 ---
 
