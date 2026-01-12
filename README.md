@@ -13,7 +13,7 @@ My core competency lies in the convergence of **Cloud Native Architectures**, **
 ### 🎯 Technical Focus
 *   **Systems Engineering:** Deep experience in **Embedded Linux**, **FreeRTOS**, and **Bare Metal** development on ARM architectures.
 *   **Full-Stack & Cloud:** Architecting microservices with **Spring Boot** and **Django**, deployed via **Docker** on **AWS/Azure**.
-*   **Connectivity:** Implementing complex protocol stacks (**TCP/IP, MQTT, SIP/RTP, Modbus**) for high-reliability IoT and VoIP communications.
+*   **Connectivity:** Implementing complex protocol stacks (**TCP/IP, MQTT, SIP/RTP, Modbus, BACnet**) for high-reliability IoT, Industrial Automation, and VoIP communications.
 
 ---
 
@@ -28,7 +28,7 @@ My core competency lies in the convergence of **Cloud Native Architectures**, **
 ### ⚡ Embedded & Firmware
 - **OS/Kernels:** Embedded Linux, FreeRTOS, VxWorks, Nucleus, REX OS
 - **Hardware:** ARM Cortex-M/A, STM32, Bare Metal Programming
-- **Protocols:** TCP/IP, MQTT, HTTP/HTTPS, RTP/RTCP, SIP, Modbus
+- **Protocols:** TCP/IP, MQTT, HTTP/HTTPS, RTP/RTCP, SIP, Modbus, BACnet (IP, MS/TP, SC)
 
 ### 🧬 AI & Machine Learning
 - **Frameworks:** TensorFlow 2.0, Keras, scikit-learn, OpenCV
@@ -43,6 +43,9 @@ My core competency lies in the convergence of **Cloud Native Architectures**, **
 ---
 
 ## 🏆 Career Highlights
+
+### **Unified Industrial Protocol Gateway (Epic Safety)**
+*Designed system architecture and developed a modular gateway on ESP32 & STM32, integrating BACnet (IP, MS/TP, SC), Modbus (TCP/RTU), and MQTT to streamline industrial connectivity.*
 
 ### **VoIP Android Video Phones (NEC)**
 *Implemented SIP/RTP stacks and optimized video codecs for real-time communication.*  
