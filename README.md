@@ -75,7 +75,7 @@ A real-time Digital Twin architecture that integrates IoT sensor data with rule-
 - “What maintenance should be scheduled next?”
 
 📖 Blog:  
-[Building an LLM-Powered Digital Twin for Physical AI] https://github.com/junehong-dominicus/posts\building-an-llm-powered-digital-twin.html
+[Building an LLM-Powered Digital Twin for Physical AI] https://github.com/junehong-dominicus/posts/building-an-llm-powered-digital-twin.html
 
 ---
 
