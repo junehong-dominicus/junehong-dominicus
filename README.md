@@ -1,77 +1,139 @@
 # June Hong
 
-**Software Architect | Technical Leader | AIoT & Embedded Systems Specialist**
+**Software Architect | Physical AI & Digital Twin Engineer | LLM Systems (LangChain, RAG)**
 
 ---
 
-### 🚀 Professional Summary
+## 🚀 Professional Summary
 
-With over **22 years of engineering experience**—combining a decade of core development with 12+ years of technical management—I architect and deliver mission-critical systems for global tech giants like **Samsung**, **NTT**, and **NEC**.
+I am a **Software Architect and Technical Leader** with over **22 years of engineering experience**, spanning embedded systems, cloud-native platforms, and AI-driven cyber-physical systems. I have architected and delivered mission-critical systems for global technology companies including **Samsung, NTT, and NEC**.
 
-My core competency lies in the convergence of **Cloud Native Architectures**, **Embedded Firmware**, and **Edge AI**. I specialize in **productionizing Machine Learning models**, moving beyond experimentation to deploy robust, scalable inference engines. My expertise encompasses the full ML lifecycle—from data engineering and model training with **TensorFlow/Keras** to optimization for resource-constrained environments (Embedded Linux/RTOS).
+My current focus is on the intersection of **Physical AI, Digital Twins, and Large Language Models (LLMs)**—designing systems where **LLMs act as cognitive layers** on top of real-world physical assets. I specialize in building **production-grade LLM systems** using **LangChain, Retrieval-Augmented Generation (RAG), LangGraph, and LangSmith**, integrated with real-time IoT and edge data.
 
-### 🎯 Technical Focus
-*   **Systems Engineering:** Deep experience in **Embedded Linux**, **FreeRTOS**, and **Bare Metal** development on ARM architectures.
-*   **Full-Stack & Cloud:** Architecting microservices with **Spring Boot** and **Django**, deployed via **Docker** on **AWS/Azure**.
-*   **Connectivity:** Implementing complex protocol stacks (**TCP/IP, MQTT, SIP/RTP, Modbus, BACnet**) for high-reliability IoT, Industrial Automation, and VoIP communications.
+---
+
+## 🎯 Current Technical Focus
+
+- **LLM-Powered Digital Twins**
+  - Stateful digital twin modeling for physical systems
+  - Real-time IoT telemetry ingestion (MQTT, edge devices)
+  - Explainable system behavior using LLM reasoning
+- **LangChain Ecosystem**
+  - LangChain agents for structured reasoning
+  - RAG pipelines for operational knowledge and logs
+  - LangGraph for multi-step and stateful agent workflows
+  - LangSmith for tracing, evaluation, and observability
+- **Physical AI Systems**
+  - Cyber-physical architectures
+  - Edge + cloud hybrid intelligence
+  - Human-in-the-loop decision systems
+
+---
+
+## 🧠 LLM & Agent Architecture Expertise
+
+### 🔗 LangChain
+- Tool-augmented agents
+- Structured prompt design
+- Context-aware reasoning over live system state
+
+### 📚 Retrieval-Augmented Generation (RAG)
+- Vector databases for manuals, logs, and historical incidents
+- Context fusion: live sensor state + retrieved knowledge
+- Grounded, explainable LLM responses
+
+### 🕸 LangGraph
+- Stateful, multi-node agent workflows
+- Event-driven reasoning loops
+- Digital Twin agents with memory and lifecycle awareness
+
+### 🔍 LangSmith
+- Agent tracing and debugging
+- Prompt and chain evaluation
+- Production observability for LLM systems
+
+---
+
+## 🏗 Featured Project
+
+## **LLM-Powered Digital Twin for Physical AI**
+
+**Description**  
+A real-time Digital Twin architecture that integrates IoT sensor data with rule-based system modeling and an LLM-powered reasoning agent.
+
+**Key Capabilities**
+- Live Digital Twin state modeling
+- Health evaluation and anomaly detection
+- Natural language interaction with physical systems
+- Explainable diagnostics and recommendations
+- RAG-powered reasoning using maintenance knowledge
+- LangGraph-based agent orchestration
+
+**Example Questions the Twin Can Answer**
+- “Why is the motor overheating?”
+- “Is it safe to operate today?”
+- “What maintenance should be scheduled next?”
+
+📖 Blog:  
+[Building an LLM-Powered Digital Twin for Physical AI] https://github.com/junehong-dominicus/posts\building-an-llm-powered-digital-twin.html
 
 ---
 
 ## 🛠 Technical Stack
 
-### ☁️ Cloud & Backend Infrastructure
-- **Architecture:** Microservices, RESTful APIs, Event-Driven Architecture
-- **Frameworks:** Spring Boot, Django REST Framework
-- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
-- **Infrastructure:** Docker, AWS (EC2, S3), Azure, Linux Server Administration
+### 🤖 LLM & AI Systems
+- **Frameworks:** LangChain, LangGraph, LangSmith
+- **RAG:** FAISS / Chroma, embedding pipelines
+- **ML:** TensorFlow, Keras, scikit-learn
+- **Techniques:** Anomaly detection, time-series analysis
 
-### ⚡ Embedded & Firmware
-- **OS/Kernels:** Embedded Linux, FreeRTOS, VxWorks, Nucleus, REX OS
-- **Hardware:** ARM Cortex-M/A, STM32, Bare Metal Programming
-- **Protocols:** TCP/IP, MQTT, HTTP/HTTPS, RTP/RTCP, SIP, Modbus, BACnet (IP, MS/TP, SC)
+### ☁️ Cloud & Backend
+- **Architecture:** Microservices, Event-Driven Systems
+- **Frameworks:** FastAPI, Django, Spring Boot
+- **Databases:** InfluxDB, PostgreSQL, Redis
+- **Infrastructure:** Docker, AWS, Azure
 
-### 🧬 AI & Machine Learning
-- **Frameworks:** TensorFlow 2.0, Keras, scikit-learn, OpenCV
-- **Techniques:** CNNs, RNNs, Transfer Learning, Time-series Forecasting
-- **Deployment:** Edge Inference, Model Optimization (Quantization/Pruning)
+### ⚡ Embedded & IoT
+- **Hardware:** ESP32, STM32, ARM Cortex-M/A
+- **OS:** Embedded Linux, FreeRTOS, Bare Metal
+- **Protocols:** MQTT, TCP/IP, HTTP, Modbus, BACnet
 
 ### 💻 Languages
-- **System:** C, C++, ARM Assembler
-- **Application:** Python, Java, Kotlin, Swift
-- **Web:** JavaScript, HTML, CSS, PHP
+- **Systems:** C, C++, ARM Assembly
+- **Application:** Python, Java, Kotlin
+- **Web:** JavaScript, HTML, CSS
 
 ---
 
 ## 🏆 Career Highlights
 
-### **Unified Industrial Protocol Gateway (Epic Safety)**
-*Designed system architecture and developed a modular gateway on ESP32 & STM32, integrating BACnet (IP, MS/TP, SC), Modbus (TCP/RTU), and MQTT to streamline industrial connectivity.*
+### **Unified Industrial Protocol Gateway**
+*Architected a modular ESP32/STM32-based gateway integrating BACnet, Modbus, and MQTT for industrial automation.*
 
 ### **VoIP Android Video Phones (NEC)**
-*Implemented SIP/RTP stacks and optimized video codecs for real-time communication.*  
+*Implemented SIP/RTP stacks and optimized real-time multimedia pipelines.*  
 [▶ Watch Demo](https://www.youtube.com/watch?v=3A7L3uexReE)
 
-### **Android Tablets (NTT)**
+### **Android Platform Engineering (NTT)**
 *Led Android framework customization and HAL integration for carrier-grade devices.*  
 [▶ Watch Demo](https://www.youtube.com/watch?v=4Y1-JsDp3IM)
-
-### **SDMB Multimedia Mobile Phones (SKTeletech)**
-*Developed embedded multimedia protocols for Satellite DMB streaming.*  
-[▶ Watch Demo](https://www.youtube.com/watch?v=J0NPZWObpac)
 
 ---
 
 ## 🌟 Architectural Philosophy
-- **Scalability First:** Designing systems that handle vertical and horizontal scaling gracefully.
-- **Clean Architecture:** Adhering to SOLID principles and modular design patterns to ensure maintainability.
-- **Performance Optimization:** Profiling and optimizing from the kernel level up to the application layer.
+
+- **LLMs as Cognitive Layers:** Language models should reason, explain, and assist—not replace physics or control logic.
+- **State Over Data:** Digital Twins must model behavior and evolution, not just metrics.
+- **Production First:** Observability, tracing, and evaluation are mandatory for real-world AI systems.
+- **Human-Centric AI:** Systems should communicate clearly with operators and engineers.
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn Profile](https://www.linkedin.com/in/junehong-dominicus/)
+- [LinkedIn](https://www.linkedin.com/in/junehong-dominicus/)
+- GitHub: *This repository*
 
 ---
 
-> *“I’m enthusiastic about preventing potential problems and developing forward-thinking solutions.”*
+> *“I design systems where physical reality meets machine reasoning.”*
