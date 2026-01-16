@@ -6,7 +6,7 @@
 
 ## 🚀 Professional Summary
 
-I am a **Software Architect and Technical Leader** with over **22 years of engineering experience**, spanning embedded systems, cloud-native platforms, and AI-driven cyber-physical systems. I have architected and delivered mission-critical systems for global technology companies including **Samsung, NTT, and NEC**.
+I am a **Software Architect and Technical Leader** with over **20 years of engineering experience**, spanning embedded systems, cloud-native platforms, and AI-driven cyber-physical systems. I have architected and delivered mission-critical systems for global technology companies including **Samsung, NTT, and NEC**.
 
 My current focus is on the intersection of **Physical AI, Digital Twins, and Large Language Models (LLMs)**—designing systems where **LLMs act as cognitive layers** on top of real-world physical assets. I specialize in building **production-grade LLM systems** using **LangChain, Retrieval-Augmented Generation (RAG), LangGraph, and LangSmith**, integrated with real-time IoT and edge data.
 
