@@ -1,14 +1,26 @@
 # June Hong
 
-**Software Architect | Physical AI & Digital Twin Engineer | LLM Systems (LangChain, RAG)**
+**CEO/CTO, OmniNStack | Software Architect | Physical AI & Digital Twin Engineer | LLM Systems (LangChain, RAG)**  
+📍 Langley, BC, Canada
 
 ---
 
 ## 🚀 Professional Summary
 
-I am a **Software Architect and Technical Leader** with over **20 years of engineering experience**, spanning embedded systems, cloud-native platforms, and AI-driven cyber-physical systems. I have architected and delivered mission-critical systems for global technology companies including **Samsung, NTT, and NEC**.
+I am the **CEO/CTO of OmniNStack** (OMNINSTACK AI SOLUTIONS INC., British Columbia), an enterprise AI platform company building governed, sovereign/on-prem AI — agents, RAG, and workflow orchestration for organizations that must keep their data under their own control. I am also a **Software Architect and Technical Leader** with over **20 years of engineering experience**, spanning embedded systems, cloud-native platforms, and AI-driven cyber-physical systems. I have architected and delivered mission-critical systems for global technology companies including **Samsung, NTT, and NEC**.
 
 My current focus is on the intersection of **Physical AI, Digital Twins, and Large Language Models (LLMs)**—designing systems where **LLMs act as cognitive layers** on top of real-world physical assets. I specialize in building **production-grade LLM systems** using **LangChain, Retrieval-Augmented Generation (RAG), LangGraph, and LangSmith**, integrated with real-time IoT and edge data.
+
+---
+
+## 🏢 OmniNStack — Enterprise AI Platform
+
+**[www.omninstack.com](https://www.omninstack.com)**
+
+- Governed AI workflows with human oversight and audit trails
+- Retrieval-Augmented Generation over enterprise knowledge
+- Agent orchestration across on-prem, sovereign cloud, and edge deployments
+- Built for regulated and privacy-conscious organizations in Canada
 
 ---
 
@@ -79,6 +91,20 @@ A real-time Digital Twin architecture that integrates IoT sensor data with rule-
 
 ---
 
+## 📱 Apps & Games
+
+Indie software I design, build, and publish:
+
+- **SmartShopper** (Android) — Offline-first grocery lists with auto-categorization and barcode/receipt scanning. *Google Play*
+- **Shopora** (Android) — Shopping lists, loyalty & membership cards, receipt OCR, and monthly budget tracking — local-only by design. *Google Play*
+- **Snake Dice** (Android, Unity) — A snakes-and-ladders board game with a language quiz twist. *Google Play*
+- **Mongle Word Pet** (Android) — A kawaii virtual pet that learns English/Korean words with you through quizzes. *Google Play*
+- **World Travel Language RPG** (Roblox) — Travel the world, learn phrases in Korean, English, Japanese, and Chinese, and collect passport stamps. *Live on Roblox*
+
+Also: **[K-Ceramic Canada](https://k-ceramic.ca)** — handmade Korean ceramics curated for Canada.
+
+---
+
 ## 🛠 Technical Stack
 
 ### 🤖 LLM & AI Systems
@@ -131,6 +157,8 @@ A real-time Digital Twin architecture that integrates IoT sensor data with rule-
 
 ## 📫 Connect
 
+- 🌐 [omninstack.com](https://www.omninstack.com)
+- ✉️ junehong@omninstack.com
 - [LinkedIn](https://www.linkedin.com/in/junehong-dominicus/)
 - GitHub: *This repository*
 
