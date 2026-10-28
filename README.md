@@ -1,26 +1,14 @@
 # June Hong
 
-**CEO/CTO, OmniNStack | Software Architect | Physical AI & Digital Twin Engineer | LLM Systems (LangChain, RAG)**  
-📍 Langley, BC, Canada
+**Software Architect | Physical AI & Digital Twin Engineer | LLM Systems (LangChain, RAG)**
 
 ---
 
 ## 🚀 Professional Summary
 
-I am the **CEO/CTO of OmniNStack** (OMNINSTACK AI SOLUTIONS INC., British Columbia), an enterprise AI platform company building governed, sovereign/on-prem AI — agents, RAG, and workflow orchestration for organizations that must keep their data under their own control. I am also a **Software Architect and Technical Leader** with over **20 years of engineering experience**, spanning embedded systems, cloud-native platforms, and AI-driven cyber-physical systems. I have architected and delivered mission-critical systems for global technology companies including **Samsung, NTT, and NEC**.
+I am a **Software Architect and Technical Leader** with over **20 years of engineering experience**, spanning embedded systems, cloud-native platforms, and AI-driven cyber-physical systems. I have architected and delivered mission-critical systems for global technology companies including **Samsung, NTT, and NEC**.
 
 My current focus is on the intersection of **Physical AI, Digital Twins, and Large Language Models (LLMs)**—designing systems where **LLMs act as cognitive layers** on top of real-world physical assets. I specialize in building **production-grade LLM systems** using **LangChain, Retrieval-Augmented Generation (RAG), LangGraph, and LangSmith**, integrated with real-time IoT and edge data.
-
----
-
-## 🏢 OmniNStack — Enterprise AI Platform
-
-**[www.omninstack.com](https://www.omninstack.com)**
-
-- Governed AI workflows with human oversight and audit trails
-- Retrieval-Augmented Generation over enterprise knowledge
-- Agent orchestration across on-prem, sovereign cloud, and edge deployments
-- Built for regulated and privacy-conscious organizations in Canada
 
 ---
 
@@ -157,8 +145,6 @@ Also: **[K-Ceramic Canada](https://k-ceramic.ca)** — handmade Korean ceramics 
 
 ## 📫 Connect
 
-- 🌐 [omninstack.com](https://www.omninstack.com)
-- ✉️ junehong@omninstack.com
 - [LinkedIn](https://www.linkedin.com/in/junehong-dominicus/)
 - GitHub: *This repository*
 
